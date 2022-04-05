@@ -74,5 +74,126 @@ Kemudian buat kerangka layout dengan semantics element seperti berikut.
 
 Tuliskan kode berikut ini.
 
-![Gambar13](screenshot/ss1.png)
+![Gambar13](screenshot/ss31.png)
 
+Kemudian buka browser dan lihat hasilnya.
+
+![Gambar14](screenshot/ss32.png)
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+
+![Gambar15](screenshot/ss33.png)
+
+Kemudian lihat hasilnya pada browser.
+
+![Gambar16](screenshot/ss34.png)
+
+### Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
+
+![Gambar17](screenshot/ss35.png)
+
+Kemudian lihat hasilnya.
+
+![Gambar18](screenshot/ss36.png)
+
+### Membuat Hero Panel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![Gambar19](screenshot/ss37.png)
+
+![Gambar20](screenshot/ss37b.png)
+
+Kemudian lihat hasilnya.
+
+![Gambar21](screenshot/ss38.png)
+
+### Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![Gambar22](screenshot/ss39.png)
+
+![Gambar23](screenshot/ss40.png)
+
+### Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar. 
+
+![Gambar24](screenshot/ss41.png)
+
+Kemudian tambahkan CSS.
+
+![Gambar25](screenshot/ss42.png)
+
+Kemudian lihat hasilnya.
+
+![Gambar26](screenshot/ss43.png)
+
+### Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+![Gambar27](screenshot/ss44.png)
+
+Kemudian lihat hasilnya.
+
+![Gambar28](screenshot/ss45.png)
+
+### Menambahkan Elemen lainnya pada Main Content
+
+![Gambar29](screenshot/ss46.png)
+
+Kemudian tambahkan CSS.
+
+![Gambar30](screenshot/ss46b.png)
+
+![Gambar31](screenshot/ss46c.png)
+
+Lihat hasilnya dibrowser.
+
+![Gambar32](screenshot/ss47.png)
+
+### Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![Gambar33](screenshot/ss48.png)
+
+Kemudian tambahkan CSS.
+
+![Gambar34](screenshot/ss48b.png)
+
+Lihat hasilnya dibrowser.
+
+![Gambar35](screenshot/ss49.png)
+
+
+### Tambahan Layout untuk menu About
+=> Membuat single layout yang berisi deskripsi perkenalan.
+Buatlah codingan seperti berikut ini.
+
+![Gambar36](screenshot/ss50.png)
+
+![Gambar37](screenshot/ss50b.png)
+
+Kemudian tambahkan CSS.
+
+![Gambar38](screenshot/ss50c.png)
+
+Lihat hasilnya dibrowser.
+
+![Gambar39](screenshot/ss51.png)
+
+
+### Tambahan Layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+Buatlah codingan seperti berikut ini.
+
+![Gambar40](screenshot/ss52.png)
+
+![Gambar41](screenshot/ss52b.png)
+
+Kemudian tambahkan CSS.
+
+![Gambar42](screenshot/ss52c.png)
+
+Lihat hasilnya dibrowser.
+
+![Gambar43](screenshot/ss53.png)
